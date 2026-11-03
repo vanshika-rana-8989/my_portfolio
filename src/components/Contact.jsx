@@ -11,10 +11,10 @@ import { Copy, Check, Github, Linkedin, ArrowUpRight } from 'lucide-react'
  * ─────────────────────────────────────────────────────────────────────────────
  */
 const CONFIG = {
-  EMAIL:       'your.email@example.com',    // ← REPLACE THIS
+  EMAIL:       'vanshikaranag@gmail.com',    
   GITHUB:      'https://github.com/vanshika-rana-8989',
-  LINKEDIN:    'https://linkedin.com/in/your-linkedin-handle', // ← REPLACE THIS
-  SHOW_RESUME: false,                        // ← set true when resume PDF is ready
+  LINKEDIN:    'https://www.linkedin.com/in/vanshika-rana-g8989/', 
+  SHOW_RESUME: true,                        // ← set true when resume PDF is ready
   RESUME_URL:  '/resume.pdf',               // ← add your PDF to /public/resume.pdf
 }
 
